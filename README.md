@@ -1,4 +1,4 @@
-**To Start Server edit server-data\start.cmd
+To Start Server edit server-data\start.cmd
 
 **Change this line**
 - start C:\Users\Opti\Desktop\GLNEW\server\run.cmd +exec server.cfg +exec scripts.cfg +set onesync_plus_enabled 1
