@@ -1,0 +1,5 @@
+Citizen.CreateThread(function()
+    AddTextEntry("models", "Tesla ModelS")
+    AddTextEntry("model3", "Tesla Model3")
+    AddTextEntry("modelx", "Tesla ModelX")
+end)
